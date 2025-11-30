@@ -35,14 +35,14 @@ presents thecomplete forecastingresultsalongwithperformance improvement analysis
 
 
 ## Acknowledgement：
-[DSIN-PMA](https://github.com/yejunjiePhD/DSIN-PMA)  
+[DSIN-PMA]https://github.com/yejunjiePhD/DSIN-PMA  
 [TimesNet] https://github.com/thuml/TimesNet  
 [MSGNet] https://github.com/YoZhibo/MSGNet  
 [CrossGNN] https://github.com/hqh0728/CrossGNN  
 [Crossformer] https://github.com/Thinklab-SJTU/Crossformer  
 [MEAformer]https://github.com/huangsiyuan924/MEAformer  
 [patchtst] https://github.com/yuqinie98/patchtst  
-[iTransformer](https://github.com/thuml/iTransformer)
+[iTransformer]https://github.com/thuml/iTransformer
 
 ## Contact:
 If you have any questions or concerns, please contact us: 12024215196@stu.yun.edu.cn or zhaochunna@ynu.edu.cn or submit an issue.
